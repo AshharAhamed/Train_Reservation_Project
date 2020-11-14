@@ -1,0 +1,39 @@
+json Array for train
+
+[
+    {
+        "name": "Rajarata Rajina",
+        "monday": 1,
+        "tuesday": 1,
+        "wednesday": 1,
+        "thurseday": 1,
+        "friday": 1,
+        "saturday": 0,
+        "sunday": 0,
+        "class_1": 0,
+        "class_2": 230,
+        "class_3": 190,
+        "from": "Matara",
+        "to": "Anuradhapura",
+        "places": [],
+        "trainId": 4,
+        "arrivalTime": "9.00",
+        "depatureTime": "19.30"
+    }
+]
+
+json Array for User
+[
+    {
+        "id": 1,
+        "username": "Ashhar123",
+        "fname": "Ashhar",
+        "lname": "Ahmed",
+        "email": "ashharstudy00@gmail.com",
+        "phone_number": 777191214,
+        "nic_no": "950473630V"
+    }
+]
+
+
+
